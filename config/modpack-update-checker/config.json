@@ -4,7 +4,7 @@
   "modpackName": "VIJIN OMEGA",
   "modpackAuthor": "Naser",
   "modpackReleaseType": "stable",
-  "updateCheckerId": "https://raw.githubusercontent.com/Jab125/TestModpackUpdateChecker/simple/",
+  "updateCheckerId": "https://raw.githubusercontent.com/enaye/vijinomega",
   "advanced": {
     "bccEnabled": false,
     "expandButton": false,
